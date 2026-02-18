@@ -1,0 +1,3 @@
+export const SILVER_PRICE_PER_GRAM = 250; // Updated rate
+export const SILVER_PRICE_10G = SILVER_PRICE_PER_GRAM * 10;
+export const SILVER_PRICE_1KG = SILVER_PRICE_PER_GRAM * 1000;
